@@ -19,11 +19,11 @@ Meu nome é Maycol, tenho 45 anos, casado, formado em Administração de Empresa
 
 Além disso, tenho 19 anos de experiência trabalhando em diversas empresas com administração e processos de negocios. Durante o trabalho de administração, tive a oportunidade de trabalhar com diversos algoritmos e tecnologias, utilizando as tecnologias no escritorio em favor das minhas tarefas diárias. Também pude desenvolver habilidades como comunicação, negociação e gestão de equipes, principalmente quando trabalhei por vários anos com gestão e administração de condomínios residencias e comerciais.
 
-A tecnologia entrou em minha vida desde quando comecei minha faculdade em 1996 e em 1997 tive meu primeiro computador para desenvolver os trabalhos na universidade bem como pesquisas na internet. Nas empresas na qual trabalhei ao longo da minha carreira profissional, sempre trabalhei com a tecnologia de alguma forma, seja com o pacote office do windows, seja com pesquisas em internet, sejam com sistemas proprios presente nas atividades do dia a dia de cada empresa trabalhada. 
+A tecnologia entrou em minha vida desde quando comecei minha faculdade em 1996 e em 1997 tive meu primeiro computador para desenvolver os trabalhos na universidade bem como pesquisas na internet. Nas empresas na qual trabalhei ao longo da minha carreira profissional, sempre trabalhei com a tecnologia de alguma forma, seja com o pacote office do windows, sejam com pesquisas em internet, sejam com sistemas proprios presentes nas atividades do dia a dia de cada empresa trabalhada. 
 
 Desde janeiro de 2021, em um processo inicial de transição de carreira, comecei a ter os primeiros contatos com a programação, com o objetivo de vincular minhas experiências anteriores com a nova carreira como Desenvolvedor Web.
 
-Em relaçao a idiomas tenho experiência de estudos e anos de vivencia no exterior(Espanha, local que estou residindo atualmente, pela segunda vez, com um total de 7 anos), além de estudar o idioma Inglês desde 2021 quando iniciei o processo de transiçao de carreira para Desenvolvedor Web.
+Em relaçao a idiomas tenho experiências de estudos e anos de vivencia no exterior(Espanha, local que estou residindo atualmente, pela segunda vez, com um total de 7 anos), além de estudar o idioma Inglês desde 2021 quando iniciei o processo de transiçao de carreira para Desenvolvedor Web.
 
 Linck Linckedin: https://www.linkedin.com/in/maycol-michel-mohr/?locale=pt_BR
 
