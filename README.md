@@ -25,5 +25,3 @@ Desde janeiro de 2021, em um processo inicial de transição de carreira, comece
 
 Em relaçao a idiomas tenho experiências de estudos e anos de vivencia no exterior(Espanha, local que estou residindo atualmente, pela segunda vez, com um total de 7 anos), além de estudar o idioma Inglês desde 2021 quando iniciei o processo de transiçao de carreira para Desenvolvedor Web.
 
-Linck Linckedin: https://www.linkedin.com/in/maycol-michel-mohr/?locale=pt_BR
-
