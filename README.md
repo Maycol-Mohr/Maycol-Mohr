@@ -23,7 +23,7 @@ A tecnologia entrou em minha vida desde quando comecei minha faculdade em 1996 e
 
 Desde janeiro de 2021, em um processo inicial de transição de carreira, comecei a ter os primeiros contatos com a programação, com o objetivo de vincular minhas experiências anteriores com a nova carreira como Desenvolvedor Web.
 
-Em relaçao a idiomas tenho experiência de estudos e anos de vivencia no exterior(Espanha), além de estudar o idioma Inglês desde 2021 quando iniciei o processe de transiçao de carreira para Desenvolvedor Web.
+Em relaçao a idiomas tenho experiência de estudos e anos de vivencia no exterior(Espanha, local que estou residindo atualmente, pela segunda vez, com um total de 7 anos), além de estudar o idioma Inglês desde 2021 quando iniciei o processo de transiçao de carreira para Desenvolvedor Web.
 
 Linck Linckedin: https://www.linkedin.com/in/maycol-michel-mohr/?locale=pt_BR
 
