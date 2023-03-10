@@ -15,13 +15,23 @@
 
 Sobre: 
 
-Meu nome é Maycol, tenho 45 anos, casado, formado em Administração de Empresas, Pós Graduado (MBA) em Gestão Estratégica de Negocios. Também possuo um Mestrado na Espanha (2006 - 2007) em Direto, sobre Estudos da União Europeia. Atualmente estudante de tecnologia na escola Trybe. (abril/2022 até maio/2023).  
+Me chamo Maycol, tenho 45 anos, casado.
 
-Além disso, tenho 19 anos de experiência trabalhando em diversas empresas com administração e processos de negocios. Durante o trabalho de administração, tive a oportunidade de trabalhar com diversos algoritmos e tecnologias, utilizando as tecnologias no escritorio em favor das minhas tarefas diárias. Também pude desenvolver habilidades como comunicação, negociação e gestão de equipes, principalmente quando trabalhei por vários anos com gestão e administração de condomínios residencias e comerciais.
+Atualmente sou estudante da Trybe, Escola de Programação.
 
-A tecnologia entrou em minha vida desde quando comecei minha faculdade em 1996 e em 1997 tive meu primeiro computador para desenvolver os trabalhos na universidade bem como pesquisas na internet. Nas empresas na qual trabalhei ao longo da minha carreira profissional, sempre trabalhei com a tecnologia de alguma forma, seja com o pacote office do windows, sejam com pesquisas em internet, sejam com sistemas proprios presentes nas atividades do dia a dia de cada empresa trabalhada. 
+Meus Hobbies favoritos quando não estou estudando e trabalhando são a prática de esportes, como: futebol, natação, corrida e trilha. Também adoro viajar e conhecer novos países e novas culturas.
 
-Desde janeiro de 2021, em um processo inicial de transição de carreira, comecei a ter os primeiros contatos com a programação, com o objetivo de vincular minhas experiências anteriores com a nova carreira como Desenvolvedor Web.
+A tecnologia sempre esteve presente na minha vida, desde quando era mais jovem, seja jogando video-game, onde conheci o primeiro na década de 90. Primeiro o atari, despois foi para o nintendo, mastersystem, mega drive, super nintendo, etc...Hoje jogo menos mais é um bom hobby também nas horas vagas.
 
-Em relaçao a idiomas tenho experiências de estudos e anos de vivencia no exterior(Espanha, local que estou residindo atualmente, pela segunda vez, com um total de 7 anos), além de estudar o idioma Inglês desde 2021 quando iniciei o processo de transiçao de carreira para Desenvolvedor Web.
+Adquiri meu primeiro computador em 1997, quando entrei na Universidade e precisava de um para trabalhos, pesquisas, etc.
+
+Nas empresas que trabalhei a tecnologia sempre esteve presente, seja através do pacote office, pesquisas em internet, etc, seja com os sistemas proprios das empresas.
+
+Desde meados de 2020, início do ano 2021, com o avanço da pandemia, comecei a ter os primeiros contatos com a linguagem de programação, na qual gostei e com isso dei inicio ao longo processo de transiçao de carreira, na busca de melhor qualidade de vida e um trabalho em um setor altamente dinâmico e com possibilidades de trabalhar e ter contatos com pessoas do mundo inteiro.
+
+Inicalmente tive os primeiros contatos com o Portugol e com a linguagem Java. Em seguida comecei a adquirir diversos cursos de programaçao no site da Udemy, além de adquirir um bootcamp também, focado na linaguagem Java e React.
+
+Atualmente na Trybe estudei em front-end React e em back-end sigo estudando Node.
+
+ 
 
