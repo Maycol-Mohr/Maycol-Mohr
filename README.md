@@ -15,7 +15,7 @@
 
 Sobre: 
 
-Me chamo Maycol, tenho 45 anos, casado.
+Me chamo Maycol, tenho 46 anos, casado.
 
 Atualmente sou estudante da Trybe, Escola de Programação.
 
