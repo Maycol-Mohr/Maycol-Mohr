@@ -29,9 +29,11 @@ Nas empresas que trabalhei a tecnologia sempre esteve presente, seja através do
 
 Desde meados de 2020, início do ano 2021, com o avanço da pandemia, comecei a ter os primeiros contatos com a linguagem de programação, na qual gostei e com isso dei inicio ao longo processo de transiçao de carreira, na busca de melhor qualidade de vida e um trabalho em um setor altamente dinâmico e com possibilidades de trabalhar e ter contatos com pessoas do mundo inteiro.
 
-Inicalmente tive os primeiros contatos com o Portugol e com a linguagem Java. Em seguida comecei a adquirir diversos cursos de programaçao no site da Udemy, além de adquirir um bootcamp também, focado na linaguagem Java e React.
+Inicalmente tive os primeiros contatos com o Portugol e com a linguagem Java. Em seguida comecei a adquirir diversos cursos de programaçao no site da Udemy, além de adquirir um bootcamp também, focado na linguagem Java e React.
 
-Atualmente na Trybe estudei em front-end React e em back-end sigo estudando Node.
+Finalizei um curso na Trybe de Desenvolvimento Web(abril/2022 - junho/2023) de 1.500 horas, onde durante 1 ano e 1 mês foram desenvolvidos vários projetos em back-end e front-end. Linguagens estudadas: Python - Node - React - JavaScript - Soft skills - etc.
+
+Atualmente(agosto-2023) sigo estudando Java com SpringBoot. 
 
  
 
