@@ -15,9 +15,7 @@
 
 Sobre: 
 
-Me chamo Maycol, tenho 46 anos, casado.
-
-Atualmente sou estudante da Trybe, Escola de Programação.
+Me chamo Maycol.
 
 Meus Hobbies favoritos quando não estou estudando e trabalhando são a prática de esportes, como: futebol, natação, corrida e trilha. Também adoro viajar e conhecer novos países e novas culturas.
 
@@ -31,9 +29,13 @@ Desde meados de 2020, início do ano 2021, com o avanço da pandemia, comecei a 
 
 Inicalmente tive os primeiros contatos com o Portugol e com a linguagem Java. Em seguida comecei a adquirir diversos cursos de programaçao no site da Udemy, além de adquirir um bootcamp também, focado na linguagem Java e React.
 
-Finalizei um curso na Trybe de Desenvolvimento Web(abril/2022 - junho/2023) de 1.500 horas, onde durante 1 ano e 1 mês foram desenvolvidos vários projetos em back-end e front-end. Linguagens estudadas: Python - Node - React - JavaScript - Soft skills - etc.
+- Finalizei um Curso de Programação em Java na Academia de Informática Easy System em La Coruña, durante o período de maio/2021 até julho/2021.
 
-Atualmente(agosto-2023) sigo estudando Java com SpringBoot. 
+- Finalizei um Bootcamp em Java com SpringBoot(back-end) e React(front-end) na Escola DevSuperior, com o Professor Nélio Alves, entre setembro/2021 até março/2022.
+
+- Finalizei um curso na Trybe de Desenvolvimento Web(abril/2022 - junho/2023) de 1.500 horas, onde durante 1 ano e 1 mês foram desenvolvidos vários projetos em back-end e front-end. Linguagens estudadas: Java - Python - Node - React - JavaScript - Soft skills - etc.
+
+Atualmente(Janeiro-2024) sigo estudando Java com SpringBoot(back-end) em um curso de Aceleração em Java, também na escola Trybe e o idioma Inglês. 
 
  
 
