@@ -35,7 +35,12 @@ Inicalmente tive os primeiros contatos com o Portugol e com a linguagem Java. Em
 
 - Finalizei um curso na Trybe de Desenvolvimento Web(abril/2022 - junho/2023) de 1.500 horas, onde durante 1 ano e 1 mês foram desenvolvidos vários projetos em back-end e front-end. Linguagens estudadas: Java - Python - Node - React - JavaScript - Soft skills - etc.
 
-Atualmente(Janeiro-2024) sigo estudando Java com SpringBoot(back-end) em um curso de Aceleração em Java, também na escola Trybe e o idioma Inglês. 
+- Finalizei um curso de 6 meses (setembro/2023 até fevereiro/2024) de Aceleração em Java com Spring Boot(back-end), também na escola Trybe.
+
+
+Atualmente(maio/2024) sigo estudando o idioma inglês, fundamental na área de tecnologia além de seguir estudando e desenvolvendo-me em Java com Spring Boot na área de back-end. 
+
+
 
  
 
