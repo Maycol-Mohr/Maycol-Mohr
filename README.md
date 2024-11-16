@@ -38,7 +38,7 @@ Inicalmente tive os primeiros contatos com o Portugol e com a linguagem Java. Em
 - Finalizei um curso de 6 meses (setembro/2023 até fevereiro/2024) de Aceleração em Java com Spring Boot(back-end), também na escola Trybe.
 
 
-Atualmente(maio/2024) sigo estudando o idioma inglês, fundamental na área de tecnologia além de seguir estudando e desenvolvendo-me em Java com Spring Boot na área de back-end. 
+Atualmente(novembro/2024) sigo estudando o idioma inglês, fundamental na área de tecnologia além de seguir estudando e desenvolvendo-me em Java com Spring Boot na área de back-end. 
 
 
 
