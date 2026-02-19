@@ -35,9 +35,6 @@ Inicalmente tive os primeiros contatos com o Portugol e com a linguagem Java. Em
 - Finalizei um curso de 6 meses (setembro/2023 até fevereiro/2024) de Aceleração em Java com Spring Boot(back-end), também na escola Trybe.
 
 
-Atualmente(novembro/2024) sigo estudando o idioma inglês, fundamental na área de tecnologia além de seguir estudando e desenvolvendo-me em Java com Spring Boot na área de back-end. 
+Também comecei a estudar e fazer cursos de tecnologia em cloud(AWS - Azure - google Cloud) além de cursos em AI(Generative AI - Prompt engineering - LLMs - etc) devido a grande importancia que vem ganhando nos últimos anos além de conhecimentos e habilidades muito requeridas atualmente no mercado de TI.
 
-
-
- 
-
+Atualmente(fevereiro/2026) sigo estudando o idioma inglês, fundamental na área de tecnologia além de seguir estudando e desenvolvendo-me em Java com Spring Boot na área de back-end.
